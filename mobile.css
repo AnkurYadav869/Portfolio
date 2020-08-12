@@ -11,9 +11,12 @@
   }
 }
 @media (max-width: 768px) {
-.top{
-  height:150vh;
-}
+  .top {
+      height: 100vh;
+    }
+  .top .container-top {
+    margin: 5vh auto;
+  }
   .about .showcase .about-info {
     width: 90%;
   }
