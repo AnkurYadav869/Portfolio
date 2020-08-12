@@ -12,7 +12,7 @@
 }
 @media (max-width: 768px) {
   .top {
-      height: 100vh;
+      height: 130vh;
     }
   .top .container-top {
     margin: 5vh auto;
