@@ -11,6 +11,9 @@
   }
 }
 @media (max-width: 768px) {
+.top{
+  height:130vh;
+}
   .about .showcase .about-info {
     width: 90%;
   }
